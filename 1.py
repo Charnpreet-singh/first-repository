@@ -1,1 +1,1 @@
-print('hellow earth')
+print('bye')
