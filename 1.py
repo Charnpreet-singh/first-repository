@@ -1,1 +1,1 @@
-print('hellow everyone')
+print('hellow earth')
